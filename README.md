@@ -1,6 +1,6 @@
 # h2o
 
-This is the code and data repository for the "Practical Machine Learning with H2O" book, [published by O'Reilly](http://shop.oreilly.com/product/0636920053170.do).
+"Practical Machine Learning with H2O" book, [published by O'Reilly](http://shop.oreilly.com/product/0636920053170.do) fork
 
 As well as direct from O'Reilly, it is also available in places like [Amazon US](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) and [Amazon UK](http://amazon.co.uk/Practical-Machine-Learning-H20-Techniques/dp/149196460X/?tag=wwwdcookorg-21)  ( Print ISBN: 978-1-4919-6460-6;   Ebook ISBN: 978-1-4919-6454-5 )
 
